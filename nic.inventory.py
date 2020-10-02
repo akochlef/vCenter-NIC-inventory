@@ -6,7 +6,6 @@
 
 import json
 import requests
-import math
 import getpass
 
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
