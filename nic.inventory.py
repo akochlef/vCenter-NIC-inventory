@@ -1,3 +1,4 @@
+#! /usr/bin/python
 # NIC inventory
 # Anis Kochlef
 # 10/02/2020
